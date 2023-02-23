@@ -4,6 +4,9 @@ Program that allows the user to access two
 different financial calculators: an investment calculator and a home loan
 repayment calculator for a small financial company
 
+#### Prerequisites
+You will need the following software to run the task manager:
+ - [Python 3](https://www.python.org/downloads/)
 
 #### Installation
 To get started with the financial calculators, follow these steps:

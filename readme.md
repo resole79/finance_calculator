@@ -24,7 +24,7 @@ python finance_calculator.py
 
 #### **Usage**
 
-<p align="center"><img src="./image/finance_calculator_0.png"/><br><i>How program present</i></p>
+<p align="center"><img src="./image/finance_calculator_0.png"/><br><i>How program presents</i></p>
 
 
 **User selects ‘investment’**

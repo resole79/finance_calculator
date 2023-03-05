@@ -5,7 +5,7 @@ different financial calculators: an investment calculator and a home loan
 repayment calculator for a small financial company
 
 #### Prerequisites
-You will need the following software to run the task manager:
+You will need the following software to run the financial calculator:
  - [Python 3](https://www.python.org/downloads/)
 
 #### Installation

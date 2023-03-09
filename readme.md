@@ -20,7 +20,7 @@ git clone https://github.com/resole79/finance_calculator.git
 2. **Run** the **finance_calculator.py** file:
 
 ```sh
-python finance_calculator.py
+python3 finance_calculator.py
 ```
 
 ##
